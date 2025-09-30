@@ -1,8 +1,33 @@
-# React + Vite
+# VRForge – Responsive Landing Page (React + Tailwind CSS)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**VRForge** is a fully responsive and modern landing page built using **React**, **Tailwind CSS**, and **Vite**. It’s designed for a developer tool product offering VR application development features. The UI is clean, professional, and optimized for performance and responsiveness across all devices.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ⚡ Built with **React** and **Vite** for fast performance
+- 🎨 Styled using **Tailwind CSS** for easy customization and responsive design
+- 📱 Fully responsive layout (mobile, tablet, desktop)
+- 🧰 Modular components and clean folder structure
+- 📚 Sections included: Hero, Features, Testimonials, Pricing, Footer, and more
+- 🌐 Optimized for deployment
+
+## 📁 Tech Stack
+
+- **React** – Frontend library
+- **Tailwind CSS** – Utility-first CSS framework
+- **Vite** – Lightning-fast build tool
+- **GitHub** – Version control & deployment
+
+## 📸 Screenshots
+
+> *(Add screenshots of the landing page if available)*
+
+## 🛠️ Getting Started
+
+To run the project locally:
+
+```bash
+git clone https://github.com/itsAnkit2153/VRForge.git
+cd VRForge
+npm install
+npm run dev
