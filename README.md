@@ -20,7 +20,15 @@
 
 ## 📸 Screenshots
 
-> *(Add screenshots of the landing page if available)*
+### 🖼️ Hero Section
+![Hero Section](public/VRForge1.png)
+
+### ⚙️ Features Section
+![Features Section](public/VRForge2.png)
+
+### 💬 Testimonials and Pricing
+![Testimonials](public/VRForge3.png)
+
 
 ## 🛠️ Getting Started
 
