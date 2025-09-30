@@ -26,7 +26,7 @@
 ### ⚙️ Features Section
 ![Features Section](public/VRForge2.png)
 
-### 💬 Testimonials and Pricing
+### 💬 Testimonials
 ![Testimonials](public/VRForge3.png)
 
 
